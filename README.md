@@ -1,3 +1,3 @@
 # ladagranta
-GAmee
+
 Лёгкий Губаев
